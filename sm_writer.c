@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
 
 	int n = argc - 2;
 	int size = (argc - 2) * sizeof(int);
-	int* niz = osCreateMemoryBlock(argv[1], size)
+	int* niz = osCreateMemoryBlock(argv[1], size);
 	int i;
 	for (i = 0; i < n; i++)
 		niz[i] = atoi(argv[i + 2]);
