@@ -31,6 +31,6 @@ Skelet doslovno predstavlja skelet (kostur) ostalih programa koji se nalaze u ok
 - Oba dela programa uključuju makroe za obradu grešaka (kao i funkciju), strukturu deljene memorije, funkciju kreiranja bloka deljene memorije, semafore, kratku statičku promenljivu o jednostavnom korišćenju programa.
 
 ##Sm_writer & sm_reader
-- U ovom programu impllementirano je jednostavna razmena niza putem deljene memorije.
+- U ovom programu implementirana je jednostavna razmena niza putem deljene memorije.
 - ![projekat1](https://github.com/ancheee/aros/assets/160538389/6aa05617-9de9-4101-9cb8-bb7504df0121)
 
