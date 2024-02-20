@@ -19,6 +19,7 @@ Skelet doslovno predstavlja skelet (kostur) ostalih programa koji se nalaze u ok
 ##Fifo_server & fifo_client
 - Jednostavna implementacija named pipe (FIFO (First In First Out)) razmene poruka. Sastoji se iz Fifo servera i Fifo clienta.
 - oba dela programa sadrže makroe i funkciju za obradu grešaka, kao i statičku promenljivu koja jednostavno objašnjava kako se program koristi.
+- 
 ![projekat2](https://github.com/ancheee/aros/assets/160538389/9bd2b4c7-9ae2-4cab-ace5-06de424ba7c5)
 
 
