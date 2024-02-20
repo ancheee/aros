@@ -25,6 +25,8 @@ Skelet doslovno predstavlja skelet (kostur) ostalih programa koji se nalaze u ok
 
 ##Log_server & log_client
 - U ovom programu implementirana je jednostavna razmena poruka među korisnicima korišćenjem semafora i deljene memorije.
+- ![projekat3](https://github.com/ancheee/aros/assets/160538389/fd270ae9-f9fc-4cd5-b299-ff195f5da419)
+![projekat4](https://github.com/ancheee/aros/assets/160538389/9b57e30e-4944-4ad1-9b6f-58e379080956)
 - Oba dela programa uključuju makroe za obradu grešaka (kao i funkciju), strukturu deljene memorije, funkciju kreiranja bloka deljene memorije, semafore, kratku statičku promenljivu o jednostavnom korišćenju programa.
 
 ##Sm_writer & sm_reader
